@@ -31,5 +31,7 @@ The circuit acts as a manual counter that increments each time a button is press
 - Button press counter
 - Basis for microcontroller-free display systems
 
+  <img src="https://github.com/ed-kurlyak/simple-electronic-circuit/blob/main/DEVICE.JPG">
+
 
 
