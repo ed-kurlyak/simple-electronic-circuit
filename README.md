@@ -2,7 +2,7 @@
 
 This project demonstrates a simple digital counter using Soviet TTL logic ICs and a single-digit 7-segment display.
 
-![Circuit Diagram](schematic.jpg)
+<img src="https://github.com/ed-kurlyak/simple-electronic-circuit/blob/main/SCHEMATIC.JPG">
 
 ## 💡 Overview
 The circuit acts as a manual counter that increments each time a button is pressed. It uses binary counting and BCD-to-7-segment decoding to display numbers from 0 to 9.
